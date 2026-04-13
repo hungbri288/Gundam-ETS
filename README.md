@@ -1,4 +1,5 @@
-Access Database for GunDam
+Access Database for Gundam
+
 Learned:
 - Create relationship and primary/foreign keys => Data consistency
 - Choosing appropriate data types
